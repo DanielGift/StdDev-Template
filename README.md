@@ -9,8 +9,11 @@ Fill out each method so that it does what it claims. Don’t forget a return, an
 You should include 2 tests of your code. The first should be of the numbers 78, 80, and 77. With these starting numbers, your printed output should be exactly the following:
 
 For the numbers 78, 80, 77
+
 The Average is 78.33333333333333
+
 The Variance is 1.5555555555555556
+
 The Standard Deviation is 1.247219128924647
 
 Your other test should use different numbers but should follow this exact format as well. You are welcome to include more tests in addition.
